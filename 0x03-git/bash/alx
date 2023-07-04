@@ -1,2 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 ALX School is so cool!
+||||||| 5dd0701
+ALX
+=======
+ALX School
+>>>>>>> update_script
